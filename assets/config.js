@@ -1,6 +1,6 @@
 const config = {
     
-    USERNAME: "User#0000",
+    USERNAME: "Krynlix#6658",
     /**
      * This can either be a file link (relative or external)
      * or a Gravatar email or hash.
